@@ -1,0 +1,13 @@
+minUnits 8
+maxUnits 10
+
+register Aut2021
+register Win2022
+
+request CS229 weight 4
+request CS224N weight 3
+request EE364A weight 3
+request AA242A weight 1
+request ENGR205 weight 2
+request CS106B weight 3
+request CS228 weight 4
